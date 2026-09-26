@@ -1,0 +1,12 @@
+AiderData	Aider-终端AI智能体
+Betsy	Betsy-代码项目
+cursor	Cursor-IDE代码编辑器
+C语言	C语言-基础代码
+C语言.1	C语言-练习项目
+Excel	Excel-表格资料
+JianyingPro	剪映-程序
+JianyingPro Drafts	剪映草稿
+Project1	VS-C语言小项目
+Visual Studio-C语言	VS-C语言开发工具
+WeGameApps	WeGame-游戏
+Windows Kits	Windows系统开发工具包
